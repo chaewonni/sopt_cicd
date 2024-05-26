@@ -20,6 +20,4 @@ public class ProfileController {
                 .findFirst()
                 .orElse(NULL);
     }
-
-
 }
